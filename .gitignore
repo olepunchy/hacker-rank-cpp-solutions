@@ -36,3 +36,9 @@ main
 .ccls-cache/*
 */build/*
 build/*
+*/cmake-build-debug/*
+cmake-build-debug/*
+*/cmake-build-release/*
+cmake-build-release/*
+.idea/*
+*/.idea/*
